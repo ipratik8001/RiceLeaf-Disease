@@ -7,7 +7,7 @@ How to Do Data Exploration for Image Segmentation and Object Detection (Things I
 
 "I’ve been working with object detection and image segmentation problems for many years. An important realization I made is that people don’t put the same amount of effort and emphasis on data exploration and results analysis as they would normally in any other non-image machine learning project.
 
-Why? People don’t understand object detection and image segmentation models in depth and treat them as black boxes, in that case they don’t even know what to look at and what the assumptions are. It can be quite tedious from a technical point of view as we don’t have good image data exploration tools.
+Why? People don’t understand object detection and image segmentation models in depth and treat them as black boxes, in that case, they don’t even know what to look at and what the assumptions are. It can be quite tedious from a technical point of view as we don’t have good image data exploration tools.
 
 Data exploration is key to a lot of machine learning processes. That said, when it comes to object detection and image segmentation datasets there is no straightforward way to systematically do data exploration."
 
